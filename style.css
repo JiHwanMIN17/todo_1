@@ -1,0 +1,43 @@
+.main{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    
+}
+h2{
+    text-align:center;
+}
+form{
+    width: 500px;
+    text-align: c;
+}
+input[type="text"]{
+    width:400px;
+    height:30px;
+    text-align: center;
+    
+}
+
+ul{
+    list-style:none;
+    
+}
+li{
+    list-style: none;
+    border:1px solid;
+}
+
+
+button{
+    border-radius: 40px;
+}
+a{
+    float:right;
+    color:rgb(189, 68, 68);
+}
+
+a:hover{
+    cursor:pointer;
+    color:rgb(235, 14, 14)
+}
